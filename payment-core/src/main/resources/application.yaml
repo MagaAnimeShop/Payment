@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: "mongodb+srv://admin:cqH3HoQ1Cp4zafXn@cluster0.putsxyw.mongodb.net/ecomos?retryWrites=true&w=majority"
